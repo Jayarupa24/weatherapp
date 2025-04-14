@@ -1,0 +1,32 @@
+.login-container {
+    background: rgba(255, 255, 255, 0.4);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    color: #003344;
+    width: 300px;
+    margin: 0 auto; /* This centers the login box horizontally */
+  }
+  
+  input {
+    padding: 10px;
+    width: 80%;
+    border: none;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #0077b6;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
